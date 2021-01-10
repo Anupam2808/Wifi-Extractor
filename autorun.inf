@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=wifi.exe
+ ShellExecute=wifi.exe
+ UseAutoPlay=1
